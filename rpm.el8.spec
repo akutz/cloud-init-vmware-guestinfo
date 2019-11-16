@@ -36,3 +36,4 @@ cp DataSourceVMwareGuestInfo.py %{buildroot}/usr/lib/python3.6/site-packages/clo
 %defattr(0644, root,root, 0755)
 /etc/cloud/cloud.cfg.d/99-DataSourceVMwareGuestInfo.cfg
 /usr/lib/python3.6/site-packages/cloudinit/sources/DataSourceVMwareGuestInfo.py
+/usr/lib/python3.6/site-packages/cloudinit/sources/__pycache__/DataSourceVMwareGuestInfo.*.pyc
